@@ -19,8 +19,12 @@ export default class DogShowPage extends React.Component {
         })
     }
 
+    showDogForm = () => {
+        return <DogWalkerForm />
+    }
+
     render(){
-        console.log(this.props, this.state)
+        // console.log(this.props, this.state)
         return(
             <div className='card'>
                 <img src={this.state.dog.image} alt={this.state.dog.name} className='dog-img'/>
@@ -31,7 +35,7 @@ export default class DogShowPage extends React.Component {
                 </br>
                 <div className='card'>
                     <h2>Daily Walks Available:</h2>
-                    <button>Mornings @ 8AM</button><br/>
+                    <button onClick={this.showDogForm}>Mornings @ 8AM</button><br/>
                     <br></br>
                     <button>Mid-day @ 12:30PM</button><br/>
                     <br></br>
