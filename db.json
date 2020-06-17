@@ -1,0 +1,179 @@
+{
+    "dogs": [
+      {
+        "id": 1,
+        "name": "Oso",
+        "breed": "Boxer",
+        "borough": "Queens",
+        "image": "https://images.unsplash.com/photo-1558349699-1e1c38c05eeb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+        "id": 2,
+        "name": "Penny",
+        "breed": "Beagle",
+        "borough": "Queens",
+        "image": "https://images.unsplash.com/photo-1590010463818-c6d2104c243d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+      },
+      {
+        "id": 3,
+        "name": "Buddy",
+        "breed": "Boxer-Frenchie mix",
+        "borough": "Queens",
+        "image": "https://images.unsplash.com/photo-1551250943-c58324bd07a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 4,
+        "name": "Coco",
+        "breed": "Labrador",
+        "borough": "Queens",
+        "image": "https://images.unsplash.com/photo-1527084010108-605725de32ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 5,
+        "name": "Oreo",
+        "breed": "Mixed",
+        "borough": "Queens",
+        "image": "https://images.unsplash.com/photo-1585307240716-8d9c0017d1de?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 6,
+        "name": "Cartman",
+        "breed": "Corgi",
+        "borough": "Manhattan",
+        "image": "https://images.unsplash.com/photo-1534235261404-7625cd79bdb9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 7,
+        "name": "Butters",
+        "breed": "Corgi",
+        "borough": "Manhattan",
+        "image": "https://images.unsplash.com/photo-1519098901909-b1553a1190af?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 8,
+        "name": "Mimi",
+        "breed": "Pug",
+        "borough": "Manhattan",
+        "image": "https://images.unsplash.com/photo-1541336187922-bffa4ef13d45?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 9,
+        "name": "Viejito",
+        "breed": "Miniature Schnauzer",
+        "borough": "Manhattan",
+        "image": "https://images.unsplash.com/photo-1579698374511-6017bd6db7f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 10,
+        "name": "Rocky",
+        "breed": "Labrador mix",
+        "borough": "Manhattan",
+        "image": "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 11,
+        "name": "Princess",
+        "breed": "Papillon",
+        "borough": "Brooklyn",
+        "image": "https://images.unsplash.com/photo-1561219440-c5519982283c?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 12,
+        "name": "Frost",
+        "breed": "Husky",
+        "borough": "Brooklyn",
+        "image": "https://images.unsplash.com/photo-1543333108-4f3e0f5a7d11?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"     
+      },
+      {
+        "id": 13,
+        "name": "Missy",
+        "breed": "Pitbull",
+        "borough": "Brooklyn",
+        "image": "https://images.unsplash.com/photo-1529956650128-bca881be2e60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 14,
+        "name": "Cooper",
+        "breed": "Beagle",
+        "borough": "Brooklyn",
+        "image": "https://images.unsplash.com/photo-1542765826-d17aa264390d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 15,
+        "name": "Peluche",
+        "breed": "Beagle",
+        "borough": "Brooklyn",
+        "image": "https://images.unsplash.com/photo-1535249391284-461dc3135495?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 16,
+        "name": "Princess",
+        "breed": "Pomeranian",
+        "borough": "Bronx",
+        "image": "https://images.unsplash.com/photo-1592028616810-88480a45e406?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 17,
+        "name": "Skittles",
+        "breed": "Mixed",
+        "borough": "Bronx",
+        "image": "https://images.unsplash.com/photo-1529906920574-628dc1e49f5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 18,
+        "name": "Meatball",
+        "breed": "Pug",
+        "borough": "Bronx",
+        "image": "https://images.unsplash.com/photo-1530041686259-53d26f863313?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 19,
+        "name": "Teddy",
+        "breed": "Mixed",
+        "borough": "Bronx",
+        "image": "https://images.unsplash.com/photo-1518587671104-999f3dd2d340?ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 20,
+        "name": "Pepper",
+        "breed": "Labrador",
+        "borough": "Bronx",
+        "image": "https://images.unsplash.com/photo-1564665348269-dcea9031b228?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 21,
+        "name": "Nibbles",
+        "breed": "Mixed",
+        "borough": "Staten Island",
+        "image": "https://images.unsplash.com/photo-1534260720408-6a88c6c80e65?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 22,
+        "name": "Otis",
+        "breed": "English Bulldog",
+        "borough": "Staten Island",
+        "image": "https://images.unsplash.com/photo-1504226328501-e04bf02384be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      },
+      {
+        "id": 23,
+        "name": "Duke",
+        "breed": "Labrador",
+        "borough": "Staten Island",
+        "image": "https://images.unsplash.com/photo-1585435618152-abaa5bc6351b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 24,
+        "name": "Cosmo",
+        "breed": "Mixed",
+        "borough": "Staten Island",
+        "image": "https://images.unsplash.com/photo-1480063875867-c99d8315fe0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"   
+      },
+      {
+        "id": 25,
+        "name": "Willy",
+        "breed": "Beagle",
+        "borough": "Staten Island",
+        "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60"    
+      }
+    ]
+}
